@@ -1,4 +1,6 @@
-# Note_taker
+# Note taker
+
+![Screen Shot 2020-12-07 at 11 10 57 PM](https://user-images.githubusercontent.com/68933887/101453145-b6c49400-38e3-11eb-915b-463bc18e5ec6.png)
 
 Description
 ------------
