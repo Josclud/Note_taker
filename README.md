@@ -14,7 +14,7 @@ Contributors
 Joseph Wong-Ludwiczak
 
 
-Quentions
+Questions
 -----------
 Check out my [Github](https://github.com/Josclud)
 Check out my [Linked In](https://www.linkedin.com/in/joseph-wong-ludwicak/)
