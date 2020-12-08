@@ -2,6 +2,7 @@ const fs = require('fs')
 const path = require('path')
 const router = require('express').Router()
 
+// your routes go here...
 router.get('/notes', (req, res) => {
   fs.readFile(path.join(__dirname, "../db/db.json"), 'utf8', (err, data) => {
     if (err) {
